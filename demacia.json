@@ -17,12 +17,12 @@
   ],
   "group": {
     "matches": [
-      { "id": "M1", "day": "10-03", "format": "Bo1", "bracket": "0-0", "a": "TEAM1", "b": "TEAM2", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M2", "day": "10-03", "format": "Bo1", "bracket": "0-0", "a": "TEAM3", "b": "TEAM4", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M3", "day": "10-03", "format": "Bo1", "bracket": "0-0", "a": "TEAM5", "b": "TEAM6", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M4", "day": "10-03", "format": "Bo1", "bracket": "0-0", "a": "TEAM7", "b": "TEAM8", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M5", "day": "10-03", "format": "Bo1", "bracket": "0-0", "a": "TEAM9", "b": "TEAM10", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M6", "day": "10-03", "format": "Bo1", "bracket": "0-0", "a": "TEAM11", "b": "TEAM12", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M1", "day": "10-03", "format": "Bo1", "bracket": "0-0", "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M2", "day": "10-03", "format": "Bo1", "bracket": "0-0", "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M3", "day": "10-03", "format": "Bo1", "bracket": "0-0", "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M4", "day": "10-03", "format": "Bo1", "bracket": "0-0", "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M5", "day": "10-03", "format": "Bo1", "bracket": "0-0", "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M6", "day": "10-03", "format": "Bo1", "bracket": "0-0", "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
 
       { "id": "M7", "day": "10-04", "format": "Bo3", "bracket": "1-0", "prev": { "a": "M1:W", "b": null }, "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
       { "id": "M8", "day": "10-04", "format": "Bo3", "bracket": "1-0", "prev": { "a": null, "b": null }, "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
