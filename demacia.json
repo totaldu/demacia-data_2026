@@ -7,12 +7,12 @@
     { "slot": "TEAM3",  "seed": "LPL #7",   "short": null },
     { "slot": "TEAM4",  "seed": "LCK #5",   "short": null },
     { "slot": "TEAM5",  "seed": "LCK #6",   "short": null },
-    { "slot": "TEAM6",  "seed": "LCK #7",   "short": null },
+    { "slot": "TEAM6",  "seed": "LCK #7",   "short": BRO },
     { "slot": "TEAM7",  "seed": "LEC #4",   "short": null },
     { "slot": "TEAM8",  "seed": "LEC #5",   "short": null },
     { "slot": "TEAM9",  "seed": "LCS #4",   "short": null },
     { "slot": "TEAM10", "seed": "LCS #5",   "short": null },
-    { "slot": "TEAM11", "seed": "LCP #4",   "short": null },
+    { "slot": "TEAM11", "seed": "LCP #4",   "short": GAM },
     { "slot": "TEAM12", "seed": "CBLOL #4", "short": null }
   ],
   "group": {
