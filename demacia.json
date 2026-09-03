@@ -6,7 +6,7 @@
     { "slot": "TEAM2",  "seed": "LPL #6",   "short": null },
     { "slot": "TEAM3",  "seed": "LPL #7",   "short": null },
     { "slot": "TEAM4",  "seed": "LCK #5",   "short": null },
-    { "slot": "TEAM5",  "seed": "LCK #6",   "short": null },
+    { "slot": "TEAM5",  "seed": "LCK #6",   "short": "BFX" },
     { "slot": "TEAM6",  "seed": "LCK #7",   "short": "BRO" },
     { "slot": "TEAM7",  "seed": "LEC #4",   "short": null },
     { "slot": "TEAM8",  "seed": "LEC #5",   "short": null },
