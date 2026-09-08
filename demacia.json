@@ -4,7 +4,7 @@
   "teams": [
     { "slot": "TEAM1",  "seed": "LPL #5",   "short": null },
     { "slot": "TEAM2",  "seed": "LPL #6",   "short": null },
-    { "slot": "TEAM3",  "seed": "LPL #7",   "short": null },
+    { "slot": "TEAM3",  "seed": "LPL #7",   "short": "LGD" },
     { "slot": "TEAM4",  "seed": "LCK #5",   "short": "KT" },
     { "slot": "TEAM5",  "seed": "LCK #6",   "short": "BFX" },
     { "slot": "TEAM6",  "seed": "LCK #7",   "short": "BRO" },
